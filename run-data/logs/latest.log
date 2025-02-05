@@ -1,0 +1,26 @@
+[05Feb2025 16:01:44.382] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\SlickRamen\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, producecraft, --all, --output, C:\Users\SlickRamen\Desktop\modding\Forge-1.21.X\src\generated\resources, --existing, C:\Users\SlickRamen\Desktop\modding\Forge-1.21.X\src\main\resources]
+[05Feb2025 16:01:44.386] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.6+7-LTS
+[05Feb2025 16:01:44.388] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[05Feb2025 16:01:44.523] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\SlickRamen\Desktop\modding\Forge-1.21.X\run-data\config\fml.toml is not correct. Correcting
+[05Feb2025 16:01:44.524] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[05Feb2025 16:01:44.525] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[05Feb2025 16:01:44.525] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[05Feb2025 16:01:44.526] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[05Feb2025 16:01:44.543] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[05Feb2025 16:01:44.707] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/SlickRamen/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[05Feb2025 16:01:46.431] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[05Feb2025 16:01:47.562] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\SlickRamen\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, producecraft, --all, --output, C:\Users\SlickRamen\Desktop\modding\Forge-1.21.X\src\generated\resources, --existing, C:\Users\SlickRamen\Desktop\modding\Forge-1.21.X\src\main\resources]
+[05Feb2025 16:01:56.820] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[05Feb2025 16:01:56.820] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[05Feb2025 16:01:56.871] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[05Feb2025 16:01:57.792] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [producecraft]
+[05Feb2025 16:01:57.893] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/SlickRamen/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2025.01.19-1.21.4/forge-1.21-51.0.33_mapped_parchment_2025.01.19-1.21.4-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[05Feb2025 16:01:57.894] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/SlickRamen/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2025.01.19-1.21.4/forge-1.21-51.0.33_mapped_parchment_2025.01.19-1.21.4-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[05Feb2025 16:01:58.077] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[05Feb2025 16:01:58.417] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 339 ms
+[05Feb2025 16:01:58.418] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: producecraft
+[05Feb2025 16:01:58.427] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: producecraft finished after 8 ms
+[05Feb2025 16:01:58.427] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: producecraft
+[05Feb2025 16:01:58.580] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: producecraft finished after 152 ms
+[05Feb2025 16:01:58.580] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 503 ms
+[05Feb2025 16:01:58.595] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 10, old count: 0, new count: 11, removed stale: 0, written: 10

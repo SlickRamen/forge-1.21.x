@@ -1,0 +1,9 @@
+// 1.21	2025-02-05T16:01:58.5852519	Block States: producecraft
+a7a7ccecce8d23cfdad4b094612fa8bd84bb4390 assets/producecraft/blockstates/rice_crop.json
+ef2a40353f7f5140bcdb0dec6c87a119cd989802 assets/producecraft/models/block/rice_crop_stage0.json
+fc8f5bacbba07cc3dab55e16af9917bf5e33a6f6 assets/producecraft/models/block/rice_crop_stage1.json
+14ed88bc0b7500984f2aad81df5bf66850d58a73 assets/producecraft/models/block/rice_crop_stage2.json
+53aa82a1556f8d90073c6bc2b6f7778b4ffb058f assets/producecraft/models/block/rice_crop_stage3.json
+deb4339da60f3d31e4b3004e62b63c0454872b00 assets/producecraft/models/block/rice_crop_stage4.json
+99a89c0d55b41e13a0ea82b313112d3b6fd9cf74 assets/producecraft/models/block/rice_crop_stage5.json
+521d216209245258ab4e56d73d5f8d3d8b93fc32 assets/producecraft/models/block/rice_crop_stage6.json
